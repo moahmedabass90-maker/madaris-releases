@@ -1,11 +1,11 @@
 {
   "app": "madaris",
-  "version": "0.3.1",
-  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.3.1/MadarisSetup-0.3.1.exe",
-  "sha256": "ce7b86fafe080c98e768c90a942b65678f930342ecd5c6e27f1cf9268c4059c5",
-  "size": 39400429,
+  "version": "0.3.2",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.3.2/MadarisSetup-0.3.2.exe",
+  "sha256": "48168b023c21c941451d9ce0ae4c55e37a4709588837efe314edb61334a9755d",
+  "size": 39404544,
   "published": "2026-11-11",
-  "notes": "- تحديث أمان مهم: يُنصح كل المدارس بتثبيته.\n- الإعداد الأول للنظام أصبح من الجهاز الرئيسي فقط.\n- حماية أقوى للصلاحيات: لا يستطيع مستخدم رفع صلاحياته أو صلاحيات غيره فوق ما يملك.\n- حماية الصفحات من أي كود دخيل، ومن الطلبات القادمة من مواقع أخرى.\n- خروج الجلسات الأخرى تلقائيًا عند تغيير كلمة المرور.\n- بيانات المدرسة على الجهاز الرئيسي أصبحت متاحة للنظام والمسؤولين فقط.\n- المعلم يرى درجات مواده فقط، وبيانات أولياء الأمور لا تظهر إلا لمن له صلاحية.",
-  "signature": "Rr0f15IxQR54yAxGkw2b3zSjwPVyz45xnL8gDyDm4Rm9d82L3vDWQkpDgoz0Z57zoHz-7O5G3C8Y7Viqmi8xCQ",
+  "notes": "- إصلاح التحديث من داخل البرنامج: لا يتوقف التحديث في منتصفه إذا كان النظام مفتوحًا أو مشغولًا وقت التحديث.\n- أيقونة الساعة لا تُظهر رسالة خطأ إذا فُتحت أثناء تثبيت تحديث.\n- إيقاف الخدمة أصبح أسرع ولا ينتظر الصفحات المفتوحة في المتصفح.",
+  "signature": "9wo-0RdK6uqnitiGd3yEf_bGgEuJazgLW0TvP8AyAu-qN4Edp5ACpd827-6kT1qSYVezOO__i-jRlSP6vBeXCQ",
   "key": "E089-A3BC-EF2E-40DD"
 }
