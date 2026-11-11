@@ -1,11 +1,11 @@
 {
   "app": "madaris",
-  "version": "0.3.0",
-  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.3.0/MadarisSetup-0.3.0.exe",
-  "sha256": "415ac8a135f2419ae50aec1afca70a09c0c0e0007ca5c49adc9cd72742cfbf44",
-  "size": 39375114,
+  "version": "0.3.1",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.3.1/MadarisSetup-0.3.1.exe",
+  "sha256": "ce7b86fafe080c98e768c90a942b65678f930342ecd5c6e27f1cf9268c4059c5",
+  "size": 39400429,
   "published": "2026-11-11",
-  "notes": "- أول إصدار بملف تثبيت: لا يحتاج Python ولا Git ولا أي أوامر.\n- يعمل النظام في الخلفية تلقائيًا مع تشغيل Windows، مع أيقونة بجانب الساعة.\n- فترة تجربة مجانية، وتفعيل بكود ترخيص يعمل بدون إنترنت.\n- التحديث من داخل البرنامج (أو من فلاشة) مع نسخة احتياطية تلقائية قبل كل تحديث.",
-  "signature": "Xwz9wncyyQzK-7SVk7JnzlQIFstnWHTJUiq2MG6gFGhw7R_PnvchWFMWDX1obS2y5YfykKtmZLzJtikm5Q97AQ",
+  "notes": "- تحديث أمان مهم: يُنصح كل المدارس بتثبيته.\n- الإعداد الأول للنظام أصبح من الجهاز الرئيسي فقط.\n- حماية أقوى للصلاحيات: لا يستطيع مستخدم رفع صلاحياته أو صلاحيات غيره فوق ما يملك.\n- حماية الصفحات من أي كود دخيل، ومن الطلبات القادمة من مواقع أخرى.\n- خروج الجلسات الأخرى تلقائيًا عند تغيير كلمة المرور.\n- بيانات المدرسة على الجهاز الرئيسي أصبحت متاحة للنظام والمسؤولين فقط.\n- المعلم يرى درجات مواده فقط، وبيانات أولياء الأمور لا تظهر إلا لمن له صلاحية.",
+  "signature": "Rr0f15IxQR54yAxGkw2b3zSjwPVyz45xnL8gDyDm4Rm9d82L3vDWQkpDgoz0Z57zoHz-7O5G3C8Y7Viqmi8xCQ",
   "key": "E089-A3BC-EF2E-40DD"
 }
