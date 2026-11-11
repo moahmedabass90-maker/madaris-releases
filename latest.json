@@ -1,0 +1,11 @@
+{
+  "app": "madaris",
+  "version": "0.3.0",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.3.0/MadarisSetup-0.3.0.exe",
+  "sha256": "415ac8a135f2419ae50aec1afca70a09c0c0e0007ca5c49adc9cd72742cfbf44",
+  "size": 39375114,
+  "published": "2026-11-11",
+  "notes": "- أول إصدار بملف تثبيت: لا يحتاج Python ولا Git ولا أي أوامر.\n- يعمل النظام في الخلفية تلقائيًا مع تشغيل Windows، مع أيقونة بجانب الساعة.\n- فترة تجربة مجانية، وتفعيل بكود ترخيص يعمل بدون إنترنت.\n- التحديث من داخل البرنامج (أو من فلاشة) مع نسخة احتياطية تلقائية قبل كل تحديث.",
+  "signature": "Xwz9wncyyQzK-7SVk7JnzlQIFstnWHTJUiq2MG6gFGhw7R_PnvchWFMWDX1obS2y5YfykKtmZLzJtikm5Q97AQ",
+  "key": "E089-A3BC-EF2E-40DD"
+}
