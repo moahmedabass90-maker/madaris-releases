@@ -1,11 +1,11 @@
 {
   "app": "madaris",
-  "version": "0.4.2",
-  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.4.2/MadarisSetup-0.4.2.exe",
-  "sha256": "e7911db8ef60cb4b762ae603f03740c93e55a7cb7aedbf729567c58c2d855af4",
-  "size": 39590030,
+  "version": "0.4.3",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.4.3/MadarisSetup-0.4.3.exe",
+  "sha256": "5dc00dc24501b15213cae8c4d6967f27fe69302b532722f77133ba897b485163",
+  "size": 39592274,
   "published": "2026-11-13",
-  "notes": "إصدار 0.4.2: تحسينات وإصلاحات.",
-  "signature": "JNU-UmZsgED6x9hfnOcwbjXku9Ln_vwFq4rSPsk80nvPexfAtCdRmnWpy6gKtIjA4zQajWLvgat60FLnDWYQDw",
+  "notes": "- رقم الدعم الفني (واتساب فقط) يظهر في شاشة الترخيص وصفحة التحميل، والضغط عليه يفتح محادثة واتساب مباشرة: ‎+967 712 269 249",
+  "signature": "iLnAOWfA2NnfECqCfpdVvUqkIUe1uOoiswTFUiA_AZZ9mjRB7wd0s9EJh3Wc6bNbQdortmlvA7uc8cFTDn_qBg",
   "key": "E089-A3BC-EF2E-40DD"
 }
