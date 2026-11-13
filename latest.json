@@ -1,11 +1,11 @@
 {
   "app": "madaris",
-  "version": "0.4.1",
-  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.4.1/MadarisSetup-0.4.1.exe",
-  "sha256": "7349ed78c4f4e46dfee75a3a07cb779baf81f1cfa836970057f2ca049a208462",
-  "size": 39589445,
-  "published": "2026-11-12",
-  "notes": "- زر «طلب التفعيل» في شاشة الترخيص: يفتح نموذج الطلب، وبعد مراجعة الطلب يصلك كود التفعيل.\n- تحسينات أمان وموثوقية: لا تتكرر سجلات الحضور والجدول وتسليم الكتب إذا حُفظت من جهازين في نفس اللحظة.\n- رسالة واضحة بدل «خطأ غير متوقع» عند تعارض الحفظ.\n- تحقق إضافي من بيانات المخزن.",
-  "signature": "0FrV0JvuN3vvQ4gbKo2qVVeJdglVom-FkFMO-fKdhV8H4FnU4Tj2Cvy9qhDzlaNkXRqjMfWeqS-BNP6Zx-3wCA",
+  "version": "0.4.2",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.4.2/MadarisSetup-0.4.2.exe",
+  "sha256": "e7911db8ef60cb4b762ae603f03740c93e55a7cb7aedbf729567c58c2d855af4",
+  "size": 39590030,
+  "published": "2026-11-13",
+  "notes": "إصدار 0.4.2: تحسينات وإصلاحات.",
+  "signature": "JNU-UmZsgED6x9hfnOcwbjXku9Ln_vwFq4rSPsk80nvPexfAtCdRmnWpy6gKtIjA4zQajWLvgat60FLnDWYQDw",
   "key": "E089-A3BC-EF2E-40DD"
 }
