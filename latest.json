@@ -1,11 +1,11 @@
 {
   "app": "madaris",
-  "version": "0.5.1",
-  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.5.1/MadarisSetup-0.5.1.exe",
-  "sha256": "b24ff652fc637d9884ce6be84f9f23fcf3aae29779258d503474e663a480789c",
-  "size": 40295274,
+  "version": "0.5.2",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.5.2/MadarisSetup-0.5.2.exe",
+  "sha256": "9b1fe5d84cf5e605d68639ea2319dd8eb74f48ee6e9152f81a5a358d2496c1dd",
+  "size": 40301594,
   "published": "2026-11-14",
-  "notes": "- **البريد أو رقم الجوال لكل حساب:** كل حساب مستخدم صار له بريد إلكتروني أو رقم جوال (واحد منهما على الأقل)، عند الإعداد الأول وعند إضافة أي مستخدم.\n- **الدخول بالبريد أو الجوال:** صفحة الدخول تقبل اسم المستخدم أو البريد أو رقم الجوال.\n- الحسابات القديمة التي ليس لها بريد ولا جوال يُطلب منها إكمال البيانات بعد أول دخول. وتُعدَّل لاحقًا من أيقونة المفتاح أعلى الصفحة.",
-  "signature": "Ch9LoeL6OLkdPyj72OEirY-XSTY_vSjPhiLSnX7NYCPL_hPNG-ws-NN1i9DCCMLsV-3PhmY874KzCR3_4_yvDA",
+  "notes": "- **حساب الدخول من نموذج الموظف:** عند إضافة موظف (أو تعديل موظف ليس له حساب) يكتب المدير في آخر النموذج اسم المستخدم وكلمة المرور ويختار الدور، فيُنشأ حساب الموظف مباشرة مرتبطًا بملفه.\n- صفحة الموظف تعرض اسم حسابه إن وُجد، مع رابط لتعديله أو تغيير كلمة مروره.",
+  "signature": "E7R7YxefUQgqDwoEGh7ewtnWBU7sTt5SnW3F29JYBCduC_riAPg7X4n7-qVkdgQE-3ddmRbmrQN5AdQHwEbbDQ",
   "key": "E089-A3BC-EF2E-40DD"
 }
