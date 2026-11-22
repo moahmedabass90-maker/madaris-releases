@@ -1,11 +1,11 @@
 {
   "app": "madaris",
-  "version": "0.7.4",
-  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.7.4/MadarisSetup-0.7.4.exe",
-  "sha256": "eab718d5bb225f979f5d561dc8234c932bf6b0b962327597573327293066b6cb",
-  "size": 43596427,
+  "version": "0.7.5",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.7.5/MadarisSetup-0.7.5.exe",
+  "sha256": "07ea40294ef9f4f2576b5abf227a9e36360d9ba1c17f1ac1f4fa6bdc93a96ebe",
+  "size": 43663035,
   "published": "2026-11-22",
-  "notes": "- **المناهج:** مسودة خطة رياضيات الصف الأول اليمني للجزأين، مع معاينة وتعديل توزيع الأسابيع والحصص قبل حفظها.",
-  "signature": "PZY0oSTq3TEPoDQKPeuxX1CoX943zqNb3WrPCticjHIbVnJ2spaQCH6x3NGb_aqYjeW9G2gbbzpDSPdWK6i1DA",
+  "notes": "- **نسخة ويندوز:** يظهر رمز Baprotec على أيقونة «مدارس» في اختصار سطح المكتب وقائمة ابدأ وملف التثبيت وبجانب الساعة.",
+  "signature": "Zun6SspDFeGZSz6m11a0SJQxxl5dlYk1oelJ4V3h-lXqC0Lon1c9ijwVl8Tj4WqKdFYbkintoqNn9v1-1CkjBg",
   "key": "E089-A3BC-EF2E-40DD"
 }
