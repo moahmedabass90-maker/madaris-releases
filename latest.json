@@ -1,11 +1,11 @@
 {
   "app": "madaris",
-  "version": "0.7.2",
-  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.7.2/MadarisSetup-0.7.2.exe",
-  "sha256": "ea69b2291556adceec18e5174a8d659c6820e111232e727bdcbabb9a4e2aeae8",
-  "size": 43579340,
+  "version": "0.7.4",
+  "url": "https://github.com/moahmedabass90-maker/madaris-releases/releases/download/v0.7.4/MadarisSetup-0.7.4.exe",
+  "sha256": "eab718d5bb225f979f5d561dc8234c932bf6b0b962327597573327293066b6cb",
+  "size": 43596427,
   "published": "2026-11-22",
-  "notes": "- **المنهج اليمني للصف الأول الأساسي:** إضافة تبويب الكتب الدراسية وحزمة روابط للقراءة والرياضيات والعلوم والقرآن والتربية الإسلامية. تظهر الكتب للأهل بعد تحديث بوابة ولي الأمر والمزامنة.\n- **تسجيل الطالب:** يمكن حفظ طلب التسجيل بدون صف ثم قيد الطالب من ملفه، مع زر مستقل للقبول المباشر.\n- **جدول الحصص:** معاينة توزيع الحصص الناقصة حسب نصاب المواد وتفرّغ المعلمين قبل اعتمادها.\n- **بوابة ولي الأمر والقبول:** متابعة الغياب والأقساط، وتقديم طلبات الالتحاق ومتابعة حالتها من رابط المدرسة.\n- **الاستيراد والتحصيل:** دعم أعمدة كشوف نور الشائعة، ومطابقة دفعات ميسّر بسند قبض بعد التحقق.\n- **الاعتمادية:** منع تكرار سند القبض عند إعادة الإرسال وتحسين استعادة قاعدة البيانات والمرفقات.",
-  "signature": "bsssfNoeEGv5EUxQH4QWkIj2tj9ZH3FugC8WOV7_13vb8HLtkuPj4P3EqPA0xO-4YXfJ6zxhrytlaI7G1XNPBg",
+  "notes": "- **المناهج:** مسودة خطة رياضيات الصف الأول اليمني للجزأين، مع معاينة وتعديل توزيع الأسابيع والحصص قبل حفظها.",
+  "signature": "PZY0oSTq3TEPoDQKPeuxX1CoX943zqNb3WrPCticjHIbVnJ2spaQCH6x3NGb_aqYjeW9G2gbbzpDSPdWK6i1DA",
   "key": "E089-A3BC-EF2E-40DD"
 }
